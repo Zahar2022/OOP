@@ -4,7 +4,7 @@
 #include <iomanip>
 #include <cmath>
 #include <stdexcept>
-#include "Fraction.h"
+#include "classFraction.h"
 
 
 Fraction Fraction::InputFraction() const {

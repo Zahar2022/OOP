@@ -10,7 +10,6 @@ class Fraction {
     int denominator;
 
 public:
-    Fraction(); //default constructor
     Fraction(int numerator = 1, int denominator = 1) {    // constructor with parameters
         setNumerator(numerator);
         setDenominator(denominator);  
